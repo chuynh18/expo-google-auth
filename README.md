@@ -11,4 +11,4 @@ The only change is replacing the `result` variable.  The relevant docs can be fo
 Warning
 -------
 
-I did this test for a group project.  We ended up not going forward with it.  While the app does seem to authenticate with Google, I never figured out the next step.
+I did this test for a group project.  We ended up not going forward with it.  While the app does seem to authenticate with Google, we never figured out what we needed to do next.  If you figure something out, I'd love to hear it!  Otherwise, I just want to warn you this repo might be false hope.
